@@ -1,0 +1,5 @@
+*.kicad_pcb-bak
+*.bak
+*.png
+*.zip
+led_skylight_gerber/

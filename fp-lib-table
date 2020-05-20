@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name JK3030AWT-P)(type KiCad)(uri ${KIPRJMOD}/JK3030AWT-P.pretty)(options "")(descr ""))
+  (lib (name Carlco_10507)(type KiCad)(uri ${KIPRJMOD}/Carlco_10507.pretty)(options "")(descr ""))
+  (lib (name Acshikh)(type KiCad)(uri ${KIPRJMOD}/Acshikh.pretty)(options "")(descr ""))
+)
